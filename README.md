@@ -1,4 +1,9 @@
 # Belajar TypeScript
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*moJeTvW97yShLB7URRj5Kg.png">
+
+## Materials
+- [Tutorial TypeScript Dasar - Bahasa Indonesia](https://www.youtube.com/watch?v=C_C64faSO4c&t=2880s)
+- [Tutorial Typecript Object Oriented Programming - Bahasa Indonesia](https://www.youtube.com/watch?v=KwfRFkHAlVo&t=219s)
 
 ## Setup Node JS Project
 - run `npm init`
