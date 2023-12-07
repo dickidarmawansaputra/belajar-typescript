@@ -1,0 +1,21 @@
+{
+  "name": "belajar-typescript",
+  "version": "1.0.0",
+  "description": "Belajar TypeScript",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "commit": "cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "author": "Dicki Darmawan Saputra",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.3"
+  }
+}
